@@ -6,4 +6,4 @@ A Highly Motivated, Passionate & Innovation-Oriented Electrical Engineer seeking
 
 Skills: REACT / JS / HTML / CSS / C / C++
 
-- 🔭 I’m currently working on ![The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
