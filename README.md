@@ -9,4 +9,9 @@ Skills: REACT / JS / HTML / CSS / C / C++
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-You can find my PORTFOLIO [here.](https://abhishek-batra-portfolio.herokuapp.com/)
+- 💎 You can find my PORTFOLIO [here.](https://abhishek-batra-portfolio.herokuapp.com/)
+
+Hobbies: Playing Football⚽
+         Watching Anime
+         Music
+
