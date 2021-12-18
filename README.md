@@ -11,7 +11,5 @@ Skills: REACT / JS / HTML / CSS / C / C++
 
 - 💎 You can find my PORTFOLIO [here.](https://abhishek-batra-portfolio.herokuapp.com/)
 
-Hobbies: Playing Football⚽
-         Watching Anime
-         Music
+Hobbies: Playing ⚽Football⚽, Watching Anime, Listening to ♬Music♬
 
