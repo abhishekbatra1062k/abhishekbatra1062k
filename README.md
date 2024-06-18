@@ -11,7 +11,7 @@ Skills: Python / C++ / Django / REACT / JS / HTML / CSS / C / SQL / MongoDB
 
 - 💎 You can find my PORTFOLIO [here.](https://abhishek-batra-portfolio.netlify.app/)
 
-### 📋 [Resume](https://drive.google.com/file/d/1MxctrahmR4JQXBqHsOPN06rXdoQS2fcw/view?usp=drive_link) 
+### 📋 [Resume](https://drive.google.com/file/d/12Ehq8hPDLI-ivzSAJ-C7wMY2ccomziEA/view?usp=sharing) 
 
 Hobbies: Playing Football & Badminton, Watching Anime, Playing & Listening to Music!
 
