@@ -1,9 +1,6 @@
 ## Hi there 👋, My Name is Abhishek Batra.
-### I am a Software Developer (Started Aug 2022).
+### I'm a Software Developer passionate about building scalable backend systems with a focus on high-impact solutions.
 <img alt="Software Developer" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-
-A Highly Motivated, Passionate & Innovation-Oriented Electrical Engineer seeking to get a position as a Software Development Engineer in a Reputed Company, where I can use my skills and knowledge to learn new things.
 
 Skills: Python / C++ / Django / REACT / JS / SQL / MongoDB
 
